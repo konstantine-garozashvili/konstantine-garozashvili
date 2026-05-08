@@ -58,9 +58,9 @@ I'm a **Front-End & Full-Stack Developer** based in **Marseille, France**, passi
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=konstantine-garozashvili&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats-fast.vercel.app/api?username=konstantine-garozashvili&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=konstantine-garozashvili&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=konstantine-garozashvili&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=konstantine-garozashvili&theme=tokyonight&hide_border=true)
 
