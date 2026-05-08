@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Front-End & Full-Stack Developer** based in **Marseille, France**, passionate about web development, open source, and building AI-powered applications. Currently in alternance at **[@laplateformeio](https://github.com/laplateformeio)**, France's leading tech school.
+I'm a **Full-Stack Developer** based in **Marseille, France**, passionate about web development, open source, and building AI-powered applications. Currently in alternance at **[@laplateformeio](https://github.com/laplateformeio)**, France's leading tech school.
 
 - 🔭 Currently building **kanban-agent** — an AI-powered Kanban tool with Rust + Tauri + React
 - 🌱 Deep-diving into **Rust**, **DevOps**, **Kubernetes** and **Cloud architecture**
