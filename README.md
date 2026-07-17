@@ -20,7 +20,7 @@ I'm a **Full-Stack Developer** based in **Marseille, France**, passionate about 
 - 🌱 Deep-diving into **Rust**, **DevOps**, **Kubernetes** and **Cloud architecture**
 - 💬 Ask me about **Node.js**, **React**, **Rust**, **Docker**, **API design**
 - 🌍 Languages: English (C1) · French (B2) · Russian (C1) · Georgian (C2)
-- 📍 Marseille, 13016
+- 📍 Marseille
 
 ---
 
